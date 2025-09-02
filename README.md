@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Hi 👋, I'm Nada Ebrahim</h1>
+	<h1>Hey 👋, I'm Nada Ebrahim</h1>
 	<h3>AI & NLP Enthusiast | Passionate Data Analyst | Power BI Trainee @DEPI</h3>
 	<br>
 	<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
